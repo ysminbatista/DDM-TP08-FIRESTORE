@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TP08 - Firestore</string>
+    <string name="list_kicker">Estoque</string>
+    <string name="list_title">Produtos</string>
+    <string name="register_kicker">Novo item</string>
+    <string name="register_title">Novo produto</string>
+    <string name="add_product">Cadastrar</string>
+    <string name="label_name">Nome</string>
+    <string name="label_category">Categoria</string>
+    <string name="label_price">Preço</string>
+    <string name="save">Salvar</string>
+    <string name="back">Voltar</string>
+    <string name="empty_list">Nenhum produto cadastrado ainda.</string>
+    <string name="saved_ok">Produto cadastrado!</string>
+    <string name="error_name_required">Informe o nome.</string>
+    <string name="error_category_required">Informe a categoria.</string>
+    <string name="error_price_invalid">Informe um preço válido.</string>
+    <string name="error_load">Não foi possível carregar os produtos.</string>
+    <string name="error_save">Não foi possível salvar o produto.</string>
+</resources>
